@@ -26,8 +26,8 @@ interface ProvidersProps {
 export default function Providers() {
   return (
     <UmamiAnalytics
+      src="https://analytics.yourapp.com/script.js"
       websiteId="your-website-id"
-      trackerUrl="https://your-umami-instance.com"
     >
       {children}
     </UmamiAnalytics>
