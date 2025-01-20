@@ -7,7 +7,7 @@
     ],
     "target": "ESNext",
     "module": "ESNext",
-    "jsx": "react-jsx",
+    "jsx": "react",
     "importHelpers": true,
     "esModuleInterop": true,
     // Type generation
